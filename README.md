@@ -1,4 +1,4 @@
-# Data Science Client-Project Sales Effectiveness:
+# Data Science Client Project - Sales Effectiveness:
 
 ## 🔍 Sales Lead Categorization using Machine Learning
 
